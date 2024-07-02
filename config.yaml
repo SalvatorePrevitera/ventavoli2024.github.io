@@ -1,5 +1,5 @@
 baseURL: https://ventavoli.com
-title: Gabriella Ventavoli Pittrice 2024
+title: Gabriella Ventavoli Artista 2024
 defaultContentLanguage: 'it'
 theme: eternity
 googleAnalytics: 'G-T6J73DEP7K' # todo: set your analytics id.
@@ -7,7 +7,7 @@ timeout: 5m
 
 params:
   image: /images/La_bellezza_del_mare.jpeg
-  subtitle: Sito dell'artista Gabriella Ventavoli # todo: change default subtitle for your website.
+  subtitle: Sito personale dell'artista Gabriella Ventavoli # todo: change default subtitle for your website.
   copyright: 2023 Tutti i diritti riservati. 
   author: Gabriella Ventavoli
   dontShowSource: false # please, do not do this :)
