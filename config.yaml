@@ -92,6 +92,6 @@ menu:
     - name: biografia
       url: /about/
       weight: 30
-    - name: tutte le opere
-      url: /tags/archive/
-      weight: 40
+ #   - name: tutte le opere
+  #    url: /tags/archive/
+  #    weight: 40
