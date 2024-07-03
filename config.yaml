@@ -92,4 +92,7 @@ menu:
     - name: biografia
       url: /about/
       weight: 30
+    - name: le barche dei sogni
+      url: /tags/Barche/
+      weight: 40
 
