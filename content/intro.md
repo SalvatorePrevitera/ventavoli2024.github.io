@@ -13,7 +13,7 @@ hideDate: true
 La mia arte ha tratto profonda ispirazione anche dal mio lavoro di psicoanalista, un lungo cammino,
 durante il quale ho affrontato temi di impegno sociale e culturale: la violenza contro la donna, contro
 l’ambiente, la difesa della cultura, del diritto allo studio, l’emancipazione di tutti gli esseri umani
-attraverso la scuolo.
+attraverso la scuola.
 
 Ho usato le immagini come una narrazione di questi temi fondamentali.
 
