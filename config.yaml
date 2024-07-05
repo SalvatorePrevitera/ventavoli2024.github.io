@@ -93,6 +93,6 @@ menu:
       url: /about/
       weight: 30
     - name: le barche dei sogni
-      url: /tags/Barche/
+      url: /tags/barche/
       weight: 40
 
