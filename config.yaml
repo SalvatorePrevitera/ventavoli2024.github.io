@@ -95,4 +95,6 @@ menu:
     - name: le barche dei sogni
       url: /tags/barche/
       weight: 40
-
+ - name: Le mostre
+      url: /tags/expo/
+      weight: 50
