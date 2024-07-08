@@ -96,5 +96,5 @@ menu:
       url: /tags/barche/
       weight: 40
     - name: Le mostre
-      url: /expo/
+      url: /tags/expo/
       weight: 50
