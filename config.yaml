@@ -68,12 +68,12 @@ menu:
     - name: intro
       url: /intro/
       weight: 10
-    - name: uomini del nostro tempo
-      url: /tags/uomini/
-      weight: 20
-    - name: immagini della violenza
-      url: /tags/violenza/
-      weight: 21
+#    - name: uomini del nostro tempo
+#      url: /tags/uomini/
+#      weight: 20
+#    - name: immagini della violenza
+#      url: /tags/violenza/
+#      weight: 21
     - name: ferro e fuoco
       url: /tags/ferro/
       weight: 22
