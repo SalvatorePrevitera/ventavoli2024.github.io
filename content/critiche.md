@@ -3,8 +3,6 @@ weight: 110
 title: critiche
 url: critiche
 hideTitle: true
-hideExif: true
-hideDate: true
 hideDate: true
 ---
 CRITICHE
