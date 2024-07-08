@@ -103,4 +103,4 @@ menu:
       weight: 60
     - name: intro
       url: /intro/
-      weight: 11
+      weight: 12
