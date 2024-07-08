@@ -1,6 +1,6 @@
 ---
 weight: 110
-title: Esposizioni
+title: critiche
 url: expo
 hideTitle: true
 hideExif: true
