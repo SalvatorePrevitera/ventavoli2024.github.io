@@ -12,7 +12,6 @@ MOSTRE
 
 L'Artista ha effettuato numerose mostre:
 
-
 1976 Pavia - Collettiva Galleria l'Ippogrifo
 
 1994 Milano - Collettiva Circolo della Stampa
