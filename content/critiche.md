@@ -1,7 +1,7 @@
 ---
 weight: 110
 title: critiche
-url: expo
+url: critiche
 hideTitle: true
 hideExif: true
 hideDate: true
