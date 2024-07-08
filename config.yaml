@@ -98,3 +98,6 @@ menu:
     - name: Le mostre
       url: /expo/
       weight: 50
+    - name:critiche
+      url: /critiche/
+      weight: 60
