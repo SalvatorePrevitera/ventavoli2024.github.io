@@ -13,8 +13,11 @@ Ha effettuato numerose mostre:
 
 
 1976 Pavia - Collettiva Galleria l'Ippogrifo
+
 1994 Milano - Collettiva Circolo della Stampa
+
 1995 Milano - Personale nella Galleria Ammiraglio Acton
+
 1996 Chianciano - Collettiva indetta dall'Ordine dei Medici
 1997 Varazze - Collettiva in occasione della manifestazione La  città delle donne,una sua opera scelta come simbolo.
 1997 Venezia - Collettiva indetta da Gli Amici di Ruga Giuffa
