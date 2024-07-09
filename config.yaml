@@ -93,7 +93,7 @@ menu:
       url: /expo/
       weight: 50
     - name:critiche
-      url: /critiche/
+      url: /tags/critiche/
       weight: 60
     - name: intro
       url: /intro/
