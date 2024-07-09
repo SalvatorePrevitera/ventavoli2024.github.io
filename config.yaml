@@ -95,6 +95,4 @@ menu:
     - name:critiche
       url: /tags/critiche/
       weight: 60
-    - name: intro
-      url: /intro/
-      weight: 12
+   
